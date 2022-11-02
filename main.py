@@ -1,2 +1,4 @@
-def
-print("hello word")
+def Olamundo():
+    print("hello word")
+    
+Olamundo()
